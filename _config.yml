@@ -6,9 +6,9 @@ logo:
 url:		
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  name: Heidi Tebbe
+  avatar: profile.jpg
+  bio: "I am an NCSU Libraries Fellow trying out Jekyll."
   email: #emailaddress
   disqus-shortname:
   twitter: #username

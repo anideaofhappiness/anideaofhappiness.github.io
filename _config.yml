@@ -11,7 +11,7 @@ owner:
   bio: "I am an NCSU Libraries Fellow trying out Jekyll."
   email: #emailaddress
   disqus-shortname:
-  twitter: #username
+  twitter: ideaofhappiness
   facebook: #username
   google:
     plus: #username
@@ -20,7 +20,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: anideaofhappiness
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
